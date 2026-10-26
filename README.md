@@ -1,4 +1,7 @@
 # app-dev.
 My first repository.
 
-# Demon Slayer
+# My fav movie/Series
+** series name : ** demon slayer
+** genre : ** action anime
+** main characters : ** tanjiro,
